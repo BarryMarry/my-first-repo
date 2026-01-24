@@ -1,0 +1,2 @@
+plugins { id 'com.android.library' version '8.0.0' }
+android { namespace 'com.barrymarry.hook' }
